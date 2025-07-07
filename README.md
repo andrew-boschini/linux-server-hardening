@@ -1,4 +1,4 @@
-# Linux Server Hardening
+# Linux Server Hardening - Project 1
 
 ## Overview
 
